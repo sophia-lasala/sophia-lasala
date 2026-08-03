@@ -1,4 +1,4 @@
-#Hi, I'm Sophia
+### Hi, I'm Sophia
 
 I'm and Electrical Engineering student at SUNY Farmingdale interested in electronics, embedded systems, and software development. 
 

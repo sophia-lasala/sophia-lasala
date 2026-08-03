@@ -1,4 +1,6 @@
-## Hi there 👋
+#Hi, I'm Sophia
+
+I'm and Electrical Engineering student at SUNY Farmingdale interested in electronics, embedded systems, and software development. 
 
 <!--
 **sophia-lasala/sophia-lasala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
